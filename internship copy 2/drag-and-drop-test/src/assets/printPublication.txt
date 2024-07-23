@@ -1,0 +1,4714 @@
+{
+  "print": [
+        {
+            "pubid": "1592",
+            "name": "Aaj Ka Anand",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1823",
+            "name": "Aajkaal",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11454",
+            "name": "Absolute India (Hindi)",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3851",
+            "name": "Afaqs! Reporter",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "48",
+            "name": "Afternoon Despatch & Courier",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "140",
+            "name": "Amar Ujala",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "28",
+            "name": "Ananda Bazar Patrika",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12734",
+            "name": "Ananda Vikatan",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14",
+            "name": "Andhra Bhoomi",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "17",
+            "name": "Andhra Jyothi",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3429",
+            "name": "Andhra Jyothi",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15",
+            "name": "Andhra Prabha",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20875",
+            "name": "Antima Teerpu",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5341",
+            "name": "Apla Mahanagar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8024",
+            "name": "Apla Mahanagar",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7036",
+            "name": "Architectural Digest",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1162",
+            "name": "Architecture + Design",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5003",
+            "name": "Asia Insurance Post",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3521",
+            "name": "Asia Spa India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "210",
+            "name": "Asian Photography",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "176",
+            "name": "Auto Car India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7988",
+            "name": "Auto Tech Review",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6332",
+            "name": "Auto X",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4582",
+            "name": "AUTOCAR Professional",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "217",
+            "name": "Autoguide",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9060",
+            "name": "AutoToday",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12937",
+            "name": "Aval Vikatan",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6739",
+            "name": "Aviation Times",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1835",
+            "name": "Aviation Times(Old)",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5098",
+            "name": "Bandhu Prem",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2125",
+            "name": "Bangalore Mirror",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16081",
+            "name": "Bangalore Mirror on Sunday",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3070",
+            "name": "Banking Frontiers",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "29",
+            "name": "Bartaman",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20667",
+            "name": "Bartaman Patrika (Hindi)",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7535",
+            "name": "BBC Goodfood",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7526",
+            "name": "Beauty Launchpad India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7034",
+            "name": "Better Homes and Gardens",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6945",
+            "name": "Better Interiors",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "68",
+            "name": "Better Photography",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1653",
+            "name": "Bharat Diary",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12070",
+            "name": "Bharat Prayas",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5106",
+            "name": "Bike India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "286",
+            "name": "BioSpectrum",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15438",
+            "name": "Bittabatmi",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12439",
+            "name": "Brides Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "761",
+            "name": "Broadcast & CableSat",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6077",
+            "name": "Bureaucracy Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "150",
+            "name": "Business India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10239",
+            "name": "Business Standard",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "283",
+            "name": "Business Standard",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "27",
+            "name": "Business Standard",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13",
+            "name": "Business Standard",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "133",
+            "name": "Business Standard",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1170",
+            "name": "Business Standard",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5",
+            "name": "Business Standard",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "295",
+            "name": "Business Standard",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2578",
+            "name": "Business Standard (Hindi)",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7391",
+            "name": "Business Standard (Hindi)",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "151",
+            "name": "Business Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9389",
+            "name": "Business Traveller",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14394",
+            "name": "BW Applause",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "147",
+            "name": "BW Businessworld",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7807",
+            "name": "BW BusinessWorld Marketing Whitebook",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20310",
+            "name": "BW Defence",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12430",
+            "name": "BW Education",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13314",
+            "name": "BW Healthcare World",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8533",
+            "name": "BW Hotelier",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "18953",
+            "name": "BW Legal World",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11483",
+            "name": "BW People",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21603",
+            "name": "BW Security World",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8964",
+            "name": "BW SmartCities World",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20119",
+            "name": "BW WellBeing World",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "192",
+            "name": "Cable Quest",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3009",
+            "name": "Campaign India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6314",
+            "name": "Campus Express",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "153",
+            "name": "Capital Markets",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4098",
+            "name": "Car India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6027",
+            "name": "Careers360",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3606",
+            "name": "CFO Connect",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7552",
+            "name": "Child",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "59",
+            "name": "Chip",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12944",
+            "name": "Chitralekha (Gujarati)",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11255",
+            "name": "Chitralekha (Marathi)",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "658",
+            "name": "Chronicle Pharmabiz",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11256",
+            "name": "CineBlitz",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5765",
+            "name": "CIO&Leader",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20628",
+            "name": "Civic Mirror",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2589",
+            "name": "Civil Society",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6931",
+            "name": "CMDA Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6369",
+            "name": "Commercial Vehicle",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2798",
+            "name": "Communications Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4367",
+            "name": "Conde Nast India Traveller",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6323",
+            "name": "Construction World",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7604",
+            "name": "Consumer Voice",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "175",
+            "name": "Cosmopolitan",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2884",
+            "name": "CRN",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15568",
+            "name": "Dabang Dunia",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8205",
+            "name": "Dabang Dunia",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5598",
+            "name": "Daily Hindi Milap",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7",
+            "name": "Daily Thanthi",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14718",
+            "name": "Daily Thanthi",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11104",
+            "name": "Dainik Alla Sandesh",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3248",
+            "name": "Dainik Bhaskar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5345",
+            "name": "Dainik Bhaskar",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20906",
+            "name": "Dainik Bhaskar",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "139",
+            "name": "Dainik Bhaskar",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15218",
+            "name": "Dainik Dayitva",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3334",
+            "name": "Dainik Jagran",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "141",
+            "name": "Dainik Jagran",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "943",
+            "name": "Dainik Jagran",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5564",
+            "name": "Dainik Jagran",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11080",
+            "name": "Dainik Kausar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16077",
+            "name": "Dainik Prabhat",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9075",
+            "name": "Dainik Rashtratej",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15731",
+            "name": "Dainik Sandhya",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1832",
+            "name": "Dainik Statesman",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5926",
+            "name": "Dainik Vishwamitra",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8729",
+            "name": "Daitwa",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "155",
+            "name": "Dalal Street Journal",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10278",
+            "name": "Darpan",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "156",
+            "name": "Data Quest",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3399",
+            "name": "Dayitva (Hindi)",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3400",
+            "name": "Dayitva (Marathi)",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1580",
+            "name": "Dayitvya",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "573",
+            "name": "Deccan Chronicle",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "76",
+            "name": "Deccan Chronicle",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5590",
+            "name": "Deccan Herald",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "39",
+            "name": "Deccan Herald",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16082",
+            "name": "Deccan Herald on Sunday",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6805",
+            "name": "Deccan Today",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7177",
+            "name": "Deshonnati",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1166",
+            "name": "Design Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20849",
+            "name": "Dhinakattru",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "291",
+            "name": "Digit",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2587",
+            "name": "Digital Learning",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1411",
+            "name": "Dina Karan",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9",
+            "name": "Dina Malar",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21285",
+            "name": "Dina Malar",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8",
+            "name": "Dinamani",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13305",
+            "name": "Discover India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6847",
+            "name": "Divas Ratri",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7744",
+            "name": "Divasratra",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15509",
+            "name": "Divya Bhaskar (Gujarati)",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7781",
+            "name": "Divya Bhaskar (Gujarati)",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "586",
+            "name": "DNA",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2485",
+            "name": "DNA",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3678",
+            "name": "DNA Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "598",
+            "name": "DNA.Sunday",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11267",
+            "name": "DNA.Sunday",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10654",
+            "name": "Dopahar Ka Saamna",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7066",
+            "name": "Dopahar Ka Saamna",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7541",
+            "name": "Down To Earth",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "288",
+            "name": "DQ Channel",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "149",
+            "name": "DQ Week",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9283",
+            "name": "DT Next",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11244",
+            "name": "DT Next on Sunday",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4827",
+            "name": "Ee Sanje",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20",
+            "name": "Eenadu",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5329",
+            "name": "Eenadu",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3902",
+            "name": "Eenadu",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2588",
+            "name": "egov",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6986",
+            "name": "Eisamay",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "167",
+            "name": "Electronics For You",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "158",
+            "name": "Elle",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1163",
+            "name": "Elle Decor",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5503",
+            "name": "Entrepreneur",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7472",
+            "name": "Estetica India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20797",
+            "name": "Evening Tamil Nadu",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7544",
+            "name": "Evo India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4931",
+            "name": "Exhibit",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "53",
+            "name": "Express Computer",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7225",
+            "name": "Express Food & Hospitality",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "222",
+            "name": "Express Healthcare",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "814",
+            "name": "Express Hospitality",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "833",
+            "name": "Express Pharma",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "970",
+            "name": "Express TravelWorld",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10883",
+            "name": "Fast Bikes India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10264",
+            "name": "Femina",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11018",
+            "name": "Femina",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11099",
+            "name": "Femina",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11017",
+            "name": "Femina",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "56",
+            "name": "Femina",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11037",
+            "name": "Femina",
+            "ediPlace": "South",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4399",
+            "name": "Femina Cookbook",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7473",
+            "name": "Femina Salon And Spa",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7539",
+            "name": "Femina(Hindi)",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13206",
+            "name": "Femina(Tamil)",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3384",
+            "name": "FHM",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3861",
+            "name": "Filmfare",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5851",
+            "name": "Financial Chronicle",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9732",
+            "name": "Financial Chronicle",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5195",
+            "name": "Financial Chronicle Weekend",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5198",
+            "name": "Financial Chronicle Weekend",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8814",
+            "name": "Financial Chronicle Weekend",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5199",
+            "name": "Financial Chronicle Weekend",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "221",
+            "name": "Financial Express",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "134",
+            "name": "Financial Express",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1175",
+            "name": "Financial Express",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "50",
+            "name": "Financial Express",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "41",
+            "name": "Financial Express",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "505",
+            "name": "Financial Express",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2828",
+            "name": "Financial Express",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6",
+            "name": "Financial Express",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16113",
+            "name": "Financial Express On Sunday",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16763",
+            "name": "Financial Express On Sunday",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16109",
+            "name": "Financial Express On Sunday",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16115",
+            "name": "Financial Express On Sunday",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16112",
+            "name": "Financial Express On Sunday",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16114",
+            "name": "Financial Express On Sunday",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13513",
+            "name": "Firstpost",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12405",
+            "name": "Forbes Asia",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3319",
+            "name": "Forbes India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4673",
+            "name": "Forbes Life",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4948",
+            "name": "Force",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4334",
+            "name": "Fortune India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "152",
+            "name": "Frontline",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1827",
+            "name": "Ganashakti",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6206",
+            "name": "Gavakari",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20856",
+            "name": "Gavkari",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5038",
+            "name": "Geopolitics",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21172",
+            "name": "GMT India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "773",
+            "name": "Go Now",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10200",
+            "name": "Golden Sparrow",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "198",
+            "name": "Golf Digest",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7035",
+            "name": "Good Homes",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "216",
+            "name": "Good Housekeeping",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3055",
+            "name": "GQ",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7545",
+            "name": "GR8!",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4851",
+            "name": "Grazia",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14511",
+            "name": "Griha Lakshmi",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14512",
+            "name": "Griha Lakshmi",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "171",
+            "name": "Griha Lakshmi",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "170",
+            "name": "Griha Shobha",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "71",
+            "name": "Gujarat Samachar",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15511",
+            "name": "Gujarat Samachar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21054",
+            "name": "Gurgaon Today",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6066",
+            "name": "Hair",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5843",
+            "name": "Hamara Mahanagar",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4157",
+            "name": "Hamara Mahanagar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13897",
+            "name": "Hands on Time (HOT)",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20800",
+            "name": "Happiest Health",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20862",
+            "name": "Harihara Times",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3516",
+            "name": "Harper's Bazaar",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7548",
+            "name": "Harper's Bazaar Bride",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "181",
+            "name": "Health & Nutrition",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20784",
+            "name": "Hello Mirror Madras",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2778",
+            "name": "Hello!",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "136",
+            "name": "Hindustan",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1328",
+            "name": "Hindustan Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10270",
+            "name": "Hindustan Times",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "124",
+            "name": "Hindustan Times",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "540",
+            "name": "Hindustan Times",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6283",
+            "name": "Hitavada",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6230",
+            "name": "Homemaker",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3506",
+            "name": "Hosadigantha",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21051",
+            "name": "Hospitality Horizon",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4945",
+            "name": "Hotelier India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4153",
+            "name": "Humara Mahanagar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3397",
+            "name": "HumNava",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "159",
+            "name": "Images Business of Fashion",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3930",
+            "name": "Images Retail",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "74",
+            "name": "Impact",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7543",
+            "name": "India Legal",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5040",
+            "name": "India Strategic",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "144",
+            "name": "India Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3894",
+            "name": "India Today (Hindi)",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1105",
+            "name": "India Today Aspire",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12059",
+            "name": "India Today Home",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "477",
+            "name": "India Today Spice",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "189",
+            "name": "India Today Travel Plus",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6291",
+            "name": "Indian Defence Review",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "190",
+            "name": "Indian Infrastructure",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "211",
+            "name": "Indian Journal of Printing Technology",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2092",
+            "name": "Indian Management",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "212",
+            "name": "Indian Printer & Publisher",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13358",
+            "name": "Indulge The Morning Standard",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4783",
+            "name": "Infrastructure Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9391",
+            "name": "Infrastructure Today (Annual)",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1165",
+            "name": "Inside Outside",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7785",
+            "name": "Jagat Anadeshwar Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9566",
+            "name": "Jagran Sakhi",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5367",
+            "name": "Jagruk Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10668",
+            "name": "Jan Shakti",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "18500",
+            "name": "Jan Varta",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6787",
+            "name": "Janmabhoomi(Gujarati)",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4560",
+            "name": "Janmanthan",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4546",
+            "name": "Janpravas",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1825",
+            "name": "Jansatta",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2770",
+            "name": "Jansatta",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "19991",
+            "name": "Jaslokganga",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "285",
+            "name": "Kannada Prabha",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21011",
+            "name": "Kannada Ratna",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7368",
+            "name": "Karmasanthan",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12943",
+            "name": "Karmaveera",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6207",
+            "name": "Katib",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "976",
+            "name": "Kesari",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13204",
+            "name": "Kumudam",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13207",
+            "name": "Kumudam Snehidi",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12648",
+            "name": "Kungumam",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13205",
+            "name": "Kungumam Thozhi",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "57",
+            "name": "L'Officiel",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15708",
+            "name": "Laksha Maharashtra",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7095",
+            "name": "Life",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9518",
+            "name": "Life 265",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6007",
+            "name": "Life 365 ",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10247",
+            "name": "Life Kesari",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "63",
+            "name": "Linux For You",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11390",
+            "name": "Livingetc",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10234",
+            "name": "Lok Prabha",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4862",
+            "name": "Lokmanthan",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "955",
+            "name": "Lokmanya Sanjvarta",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "952",
+            "name": "Lokmat",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2689",
+            "name": "Lokmat",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6123",
+            "name": "Lokmat Samachar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6019",
+            "name": "Lokmat Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13622",
+            "name": "Lokpatra",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20914",
+            "name": "Lokprashna",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7285",
+            "name": "Lokprerana",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "977",
+            "name": "Loksatta",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6452",
+            "name": "Loksatta",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "52",
+            "name": "Loksatta",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3920",
+            "name": "Lonely Planet",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15506",
+            "name": "LuxeBook",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21007",
+            "name": "Maalai Express",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20801",
+            "name": "Madurai Mani",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20842",
+            "name": "Mahanagar",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1176",
+            "name": "Mahanagri",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "949",
+            "name": "Maharashtra Herald",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "51",
+            "name": "Maharashtra Times",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1419",
+            "name": "Maharashtra Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "18062",
+            "name": "Maharashtrawadi",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20796",
+            "name": "Makkal Karuththu ",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12036",
+            "name": "Malayala Manorama",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3903",
+            "name": "Malayala Manorama",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8283",
+            "name": "Malayala Manorama",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12037",
+            "name": "Malayala Manorama",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "60",
+            "name": "Man's World",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12938",
+            "name": "Mangayar Malar",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6704",
+            "name": "Manufacturing Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13213",
+            "name": "MARWAR India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7051",
+            "name": "Mathrubhumi",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7877",
+            "name": "Mathrubhumi",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3500",
+            "name": "Mathrubhumi",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1020",
+            "name": "MAXIM",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4641",
+            "name": "Maya Darpan",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11258",
+            "name": "Mayapuri",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12941",
+            "name": "Mayura",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1636",
+            "name": "Men's Health",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "172",
+            "name": "Meri Saheli",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1669",
+            "name": "Metro",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6849",
+            "name": "Metro Bytes",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3638",
+            "name": "MidDay",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "47",
+            "name": "MidDay",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4011",
+            "name": "MidDay (Gujarati)",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6941",
+            "name": "Millennium Post",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6663",
+            "name": "Millionaire Asia",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4815",
+            "name": "Mint",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4351",
+            "name": "Mint",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2867",
+            "name": "Mint",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6573",
+            "name": "Mint",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1847",
+            "name": "Mint",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11279",
+            "name": "Mint",
+            "ediPlace": "South",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1846",
+            "name": "Mint",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3346",
+            "name": "Mint",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7918",
+            "name": "Mint",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8585",
+            "name": "MISS VOGUE",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6333",
+            "name": "Money Life",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1596",
+            "name": "Money Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7550",
+            "name": "Mother and Baby",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "178",
+            "name": "Motor India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10838",
+            "name": "Motor Vikatan",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "179",
+            "name": "Motoring World",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6367",
+            "name": "Motown India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13307",
+            "name": "Mukta",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15716",
+            "name": "Mumbai Amardeep",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8182",
+            "name": "Mumbai Choufer",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8181",
+            "name": "Mumbai Choufer",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20608",
+            "name": "Mumbai Lakshadeep",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "469",
+            "name": "Mumbai Mirror",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2650",
+            "name": "Mumbai Samachar(Gujarati)",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6313",
+            "name": "Munsif",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6383",
+            "name": "Mutual Fund Insight",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3019",
+            "name": "My Mobile",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4642",
+            "name": "My Pune Express",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2995",
+            "name": "Nai Dunia",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5837",
+            "name": "Namaste Telangana",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "208",
+            "name": "National Computrade News",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7605",
+            "name": "National Geographic Traveller India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20311",
+            "name": "Nav Sandhya",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7312",
+            "name": "Nava Bharat",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1412",
+            "name": "Nava Bharat",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6322",
+            "name": "Navakal",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9955",
+            "name": "Navarashtra",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9995",
+            "name": "Navarashtra",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8558",
+            "name": "NavaTelangana",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11408",
+            "name": "Navbharat",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6908",
+            "name": "Navbharat",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "137",
+            "name": "Navbharat Times",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5107",
+            "name": "Navbharat Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "659",
+            "name": "Navbharat Times",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5964",
+            "name": "Navheen Sandhya",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4240",
+            "name": "Navin Sandhya",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9108",
+            "name": "Navin Sandhya (Marathi)",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7983",
+            "name": "Navodaya Times",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10072",
+            "name": "Navrashtra",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13390",
+            "name": "Navrashtra",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10531",
+            "name": "Navshakti",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1428",
+            "name": "Navshakti",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20904",
+            "name": "New Tamilzgham",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "168",
+            "name": "New Woman",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20804",
+            "name": "News Today",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "19331",
+            "name": "News Trail",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20876",
+            "name": "Odayara Naadu",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3477",
+            "name": "Open",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6429",
+            "name": "Open Source For You",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "145",
+            "name": "Outlook",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "148",
+            "name": "Outlook (Hindi)",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1169",
+            "name": "Outlook Business",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "154",
+            "name": "Outlook Money",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "225",
+            "name": "Outlook Traveller",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "61",
+            "name": "Overdrive",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "164",
+            "name": "PC Quest",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14309",
+            "name": "PC Samachar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6032",
+            "name": "People Matters",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "703",
+            "name": "Pharma Bio World",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3799",
+            "name": "Pimpri Chinchwad Samachar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "202",
+            "name": "Pitch",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "191",
+            "name": "Power Line",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1744",
+            "name": "Power of Voice",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6447",
+            "name": "Power Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5145",
+            "name": "PowerWatch",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20022",
+            "name": "PR Commune",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21068",
+            "name": "Prabasher Khabar",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1455",
+            "name": "Prabhat",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14420",
+            "name": "Prabhat Khabar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "944",
+            "name": "Prabhat Khabar",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5800",
+            "name": "Prahar",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15671",
+            "name": "Prajasattak Janta",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "282",
+            "name": "Prajavani",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15038",
+            "name": "Pratahkal",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "207",
+            "name": "Print & Publishing",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13308",
+            "name": "Progressive Grocer",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20827",
+            "name": "Public Power",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1173",
+            "name": "Pudhari",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6770",
+            "name": "Pudhari",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12949",
+            "name": "Pune Express",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5226",
+            "name": "Pune Herald",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5109",
+            "name": "Pune Metro",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2607",
+            "name": "Pune Mirror",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14629",
+            "name": "Pune Prahar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "17250",
+            "name": "Pune Pravah",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6976",
+            "name": "Pune Satta",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "19853",
+            "name": "Pune Times Mirror",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7864",
+            "name": "Puneari Awaj",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7784",
+            "name": "Puneri",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8433",
+            "name": "Puneri Awaj",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15022",
+            "name": "Puneri Chalwal",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3845",
+            "name": "Puneri Manse",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1",
+            "name": "Punjab Kesari",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "953",
+            "name": "Punya Nagri",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6325",
+            "name": "Punya Nagri",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6176",
+            "name": "Rahtratej",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6984",
+            "name": "Rajasthan Patrika",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "839",
+            "name": "Rajasthan Patrika",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1829",
+            "name": "Rajasthan Patrika",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8322",
+            "name": "Rajasthan Patrika",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1406",
+            "name": "Rajasthan Patrika",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11199",
+            "name": "Rakesh",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11201",
+            "name": "Rakesh0123456789",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11200",
+            "name": "Rakesh123",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11125",
+            "name": "Rashtradoot",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20863",
+            "name": "Rashtratej",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5945",
+            "name": "Rashtratej",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11327",
+            "name": "Rashtriya Adhikar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "138",
+            "name": "Rashtriya Sahara",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "357",
+            "name": "Ravivasariya Hindustan",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3608",
+            "name": "REALTY PLUS",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3610",
+            "name": "Retailer",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7092",
+            "name": "Robb Report",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9295",
+            "name": "Rolling Stone",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21079",
+            "name": "ruchi test uncheck",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6002",
+            "name": "Saamna",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1177",
+            "name": "Saanjh Samachar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1178",
+            "name": "Saanjh Vaarta",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1298",
+            "name": "Sakal",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "950",
+            "name": "Sakal",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2685",
+            "name": "Sakal Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6698",
+            "name": "Sakshi",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5102",
+            "name": "Sakshi",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3402",
+            "name": "Sakshi",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8624",
+            "name": "Sakshi",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6226",
+            "name": "Salon International",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3663",
+            "name": "Samachar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "954",
+            "name": "Samana",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20616",
+            "name": "Samartha Gavkari",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21055",
+            "name": "Samay Vaarta",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21069",
+            "name": "Sambad",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7786",
+            "name": "Samradhi News",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "205",
+            "name": "Samyukta Karnataka",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "32",
+            "name": "Sananda",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1745",
+            "name": "Sandhya",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6276",
+            "name": "Sandhya Prakash",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11540",
+            "name": "Sandhya Times",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12968",
+            "name": "Sandhyanand",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "30",
+            "name": "Sangbad Pratidin",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4243",
+            "name": "Sanj Mahanagari",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1651",
+            "name": "Sanj Samachar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20864",
+            "name": "Sanj Samachar",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13623",
+            "name": "Sanj Shakti",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1652",
+            "name": "Sanj Varta",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5776",
+            "name": "Sanjevani",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20865",
+            "name": "Sanjvarta",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "18758",
+            "name": "Sanjvarta",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "33",
+            "name": "Sanmarg",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11604",
+            "name": "Sansadwani",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3114",
+            "name": "Sanskruti",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11254",
+            "name": "Saptahik Bartaman",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3860",
+            "name": "Saras Salil",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10274",
+            "name": "Sarita",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11257",
+            "name": "Satellite & Cable TV",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7020",
+            "name": "Satta",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "169",
+            "name": "Savvy",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6277",
+            "name": "Shaikh Davitva",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13624",
+            "name": "Shasan Samrat",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20775",
+            "name": "Shivnateer",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14963",
+            "name": "Shivner",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8195",
+            "name": "Shoes & Accessories",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "272",
+            "name": "Siasat",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1456",
+            "name": "Sidhant Samachar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21010",
+            "name": "Simhadwani",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5857",
+            "name": "Smart Life",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5340",
+            "name": "Smart Photography",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5958",
+            "name": "SmartLife",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4418",
+            "name": "SME Channels",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "174",
+            "name": "Society",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1164",
+            "name": "Society Interiors",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5280",
+            "name": "Soneri Maharashtra",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5832",
+            "name": "SP Aviation",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12423",
+            "name": "SP's AirBuz",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6404",
+            "name": "SP's Aviation",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13777",
+            "name": "SP's Naval Forces",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12979",
+            "name": "Sports Illustrated",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11086",
+            "name": "Sportstar",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9759",
+            "name": "Stardust",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6390",
+            "name": "Strategic Affairs",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5039",
+            "name": "Strategic Affairs(Old)",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3447",
+            "name": "Stuff India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6227",
+            "name": "Style Speak-Salon & Spa Journal",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4811",
+            "name": "Sudha",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6399",
+            "name": "Sunday Business Standard",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6398",
+            "name": "Sunday Business Standard",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6403",
+            "name": "Sunday Business Standard",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6400",
+            "name": "Sunday Business Standard",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5616",
+            "name": "Sunday Herald",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "364",
+            "name": "Sunday Herald",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15940",
+            "name": "Sunday Maharashtra Times",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6464",
+            "name": "Sunday MidDay ",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6508",
+            "name": "Sunday Mumbai Mirror",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20867",
+            "name": "Sunday Navbharat Times",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15939",
+            "name": "Sunday Navbharat Times",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "402",
+            "name": "Sunday Pioneer",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20877",
+            "name": "Sunday Pioneer",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2680",
+            "name": "Sunday Times",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "408",
+            "name": "Sunday Times",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "406",
+            "name": "Sunday Times",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "407",
+            "name": "Sunday Times",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "405",
+            "name": "Sunday Times",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "409",
+            "name": "Sunday Times",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10305",
+            "name": "Sunday Times",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1743",
+            "name": "Sunday Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10001",
+            "name": "Surajya",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20774",
+            "name": "Swar Ganga",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3008",
+            "name": "T3",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9865",
+            "name": "Talk of The Town",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20802",
+            "name": "Tamizhakam Voice",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12939",
+            "name": "Taranga",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7096",
+            "name": "Tarankit",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2487",
+            "name": "Tarun Bharat",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7427",
+            "name": "Tarun Bharat",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1069",
+            "name": "Tehelka",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10785",
+            "name": "Telangana Today",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "166",
+            "name": "Tele.Net",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4293",
+            "name": "Telecom Live",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8773",
+            "name": "Test",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21084",
+            "name": "test mu",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20724",
+            "name": "Test ruchi MU",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21522",
+            "name": "Test-Mumbai",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20907",
+            "name": "Thamizhgam Voice",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11481",
+            "name": "The Asian Age",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "24",
+            "name": "The Asian Age",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "127",
+            "name": "The Asian Age",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6330",
+            "name": "The Caravan",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21512",
+            "name": "The Caravan (Hindi)",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15168",
+            "name": "The Daily Guardian",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "49",
+            "name": "The Economic Times",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9738",
+            "name": "The Economic Times",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1174",
+            "name": "The Economic Times",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "26",
+            "name": "The Economic Times",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12",
+            "name": "The Economic Times",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "132",
+            "name": "The Economic Times",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4",
+            "name": "The Economic Times",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "40",
+            "name": "The Economic Times",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2897",
+            "name": "The Economic Times",
+            "ediPlace": "South",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8154",
+            "name": "The Economic Times (Gujarati)",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11290",
+            "name": "The Economic Times (Marathi)",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6185",
+            "name": "The Economic Times Magazine",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6188",
+            "name": "The Economic Times Magazine",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6186",
+            "name": "The Economic Times Magazine",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6189",
+            "name": "The Economic Times Magazine",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6187",
+            "name": "The Economic Times Magazine",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6131",
+            "name": "The Economic Times Magazine",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7294",
+            "name": "The Economic Times Magazine",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6397",
+            "name": "The Economic Times On Saturday",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6394",
+            "name": "The Economic Times On Saturday",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16693",
+            "name": "The Economic Times On Saturday",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6392",
+            "name": "The Economic Times On Saturday",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6393",
+            "name": "The Economic Times On Saturday",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6396",
+            "name": "The Economic Times On Saturday",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6395",
+            "name": "The Economic Times On Saturday",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "373",
+            "name": "The Economic Times on Sunday",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "376",
+            "name": "The Economic Times on Sunday",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "374",
+            "name": "The Economic Times on Sunday",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "375",
+            "name": "The Economic Times on Sunday",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2319",
+            "name": "The Economic Times on Sunday",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "377",
+            "name": "The Economic Times on Sunday",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "372",
+            "name": "The Economic Times on Sunday",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4501",
+            "name": "The Economic Times Wealth",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10342",
+            "name": "The Economic Times Wealth",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5999",
+            "name": "The Economist",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13214",
+            "name": "The Franchising World",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6202",
+            "name": "The Free Press Journal",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "46",
+            "name": "The Free Press Journal",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5095",
+            "name": "The Hans India",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3",
+            "name": "The Hindu",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4766",
+            "name": "The Hindu",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12795",
+            "name": "The Hindu",
+            "ediPlace": "South",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "37",
+            "name": "The Hindu",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2833",
+            "name": "The Hindu",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11",
+            "name": "The Hindu",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5907",
+            "name": "The Hindu",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "125",
+            "name": "The Hindu",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7827",
+            "name": "The Hindu (Tamil)",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1322",
+            "name": "The Hindu Business Line",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2832",
+            "name": "The Hindu Business Line",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "580",
+            "name": "The Hindu Business Line",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "299",
+            "name": "The Hindu Business Line",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7557",
+            "name": "The Hindu Business Line",
+            "ediPlace": "South",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2687",
+            "name": "The Hindu Business Line",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "135",
+            "name": "The Hindu Business Line",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "928",
+            "name": "The Hindu Business Line",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "582",
+            "name": "The Hindu Business Line",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16085",
+            "name": "The Hindu Business Line Portfolio",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16086",
+            "name": "The Hindu Business Line Portfolio",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16087",
+            "name": "The Hindu Business Line Portfolio",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16089",
+            "name": "The Hindu Business Line Portfolio",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20309",
+            "name": "The Hindu Business Line Portfolio",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16084",
+            "name": "The Hindu Business Line Portfolio",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16088",
+            "name": "The Hindu Business Line Portfolio",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16090",
+            "name": "The Hindu Business Line Portfolio",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11050",
+            "name": "The Hindu on Sunday",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11047",
+            "name": "The Hindu on Sunday",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11046",
+            "name": "The Hindu on Sunday",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11048",
+            "name": "The Hindu on Sunday",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11049",
+            "name": "The Hindu on Sunday",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6016",
+            "name": "The Ideal Home and Garden",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10501",
+            "name": "The Indian Express",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2174",
+            "name": "The Indian Express",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "123",
+            "name": "The Indian Express",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "948",
+            "name": "The Indian Express",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "44",
+            "name": "The Indian Express",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20822",
+            "name": "The Inquilab",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13216",
+            "name": "The Luxury Collection",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1065",
+            "name": "The Man",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13361",
+            "name": "The Morning Standard",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10",
+            "name": "The New Indian Express",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9525",
+            "name": "The New Indian Express",
+            "ediPlace": "South",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2",
+            "name": "The New Indian Express",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "36",
+            "name": "The New Indian Express",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "390",
+            "name": "The New Sunday Express",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "12438",
+            "name": "The New Sunday Express",
+            "ediPlace": "South",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "391",
+            "name": "The New Sunday Express",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "389",
+            "name": "The New Sunday Express",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20817",
+            "name": "THE PEACOCK",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13184",
+            "name": "The Pioneer",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "129",
+            "name": "The Pioneer",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14112",
+            "name": "The Speaking Tree",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14114",
+            "name": "The Speaking Tree",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14115",
+            "name": "The Speaking Tree",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14111",
+            "name": "The Speaking Tree",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14113",
+            "name": "The Speaking Tree",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "23",
+            "name": "The Statesman",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9914",
+            "name": "The Statesman",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "126",
+            "name": "The Statesman",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "362",
+            "name": "The Sunday Express",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "614",
+            "name": "The Sunday Express",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11158",
+            "name": "The Sunday Express",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1415",
+            "name": "The Sunday Express",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1418",
+            "name": "The Sunday Free Press Journal",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5974",
+            "name": "The Sunday Guardian",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7883",
+            "name": "The Sunday Guardian",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5275",
+            "name": "The Sunday Standard",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "404",
+            "name": "The Sunday Statesman",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "403",
+            "name": "The Sunday Statesman",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "527",
+            "name": "The Sunday Tribune",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "25",
+            "name": "The Telegraph",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21",
+            "name": "The Times of India",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "35",
+            "name": "The Times of India",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "43",
+            "name": "The Times of India",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3198",
+            "name": "The Times of India",
+            "ediPlace": "South",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1180",
+            "name": "The Times of India",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "122",
+            "name": "The Times of India",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2835",
+            "name": "The Times of India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2674",
+            "name": "The Times of India",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "290",
+            "name": "The Times of India",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3539",
+            "name": "The Times of India Crest",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "128",
+            "name": "The Tribune",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8544",
+            "name": "The Tribune",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "146",
+            "name": "The Week",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20430",
+            "name": "Times of Power and Voice",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21078",
+            "name": "TIMESTech.in",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "185",
+            "name": "Today's Traveller",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21319",
+            "name": "Today's Traveller Collector's Issue",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "663",
+            "name": "Top Gear",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "223",
+            "name": "Trav Talk",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7528",
+            "name": "Travel and Hospitality",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "183",
+            "name": "Travel Trends Today",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "1708",
+            "name": "Travel+Leisure",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5981",
+            "name": "Travel+Leisure Collector's Issue",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3479",
+            "name": "Trinity Mirror",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16883",
+            "name": "TURBOCHARGED",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20847",
+            "name": "Tycoons Construction & Architecture",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15208",
+            "name": "Udayakala",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20941",
+            "name": "Udayavahini",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16147",
+            "name": "Udayavani",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "284",
+            "name": "Udayavani",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20798",
+            "name": "Ullatchi Arasu",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20805",
+            "name": "Ullatchi Arasu",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5604",
+            "name": "Uppercrust",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "21009",
+            "name": "Uttar Prahari",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15665",
+            "name": "Uttar Shakti",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20888",
+            "name": "V6 Velugu",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16",
+            "name": "Vaartha",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6806",
+            "name": "Vaartha",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20803",
+            "name": "Vanakkam Tamizhagam",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6238",
+            "name": "Vanita(Hindi)",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "213",
+            "name": "VAR India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5041",
+            "name": "Vayu Aerospace & Defence Review",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "65",
+            "name": "Verve",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11126",
+            "name": "Vidarbha ki Baat",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "42",
+            "name": "Vijay Karnataka",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6520",
+            "name": "Vijayavani",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "10509",
+            "name": "Vishal Samachar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "20866",
+            "name": "Vishwadarpan",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3880",
+            "name": "Vishwadarpan",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "7153",
+            "name": "Vishwasahyadri",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9740",
+            "name": "Vishwavani",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4338",
+            "name": "Vishweshwar",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2757",
+            "name": "Vogue",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "165",
+            "name": "Voice & Data",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "2792",
+            "name": "Vyaapar (Gujarati)",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9940",
+            "name": "Vyapaar",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "13435",
+            "name": "Watch Market Review",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15226",
+            "name": "Watch Time India",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "196",
+            "name": "Wedding Affair",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15987",
+            "name": "Weekend Business Standard",
+            "ediPlace": "Hyderabad",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15989",
+            "name": "Weekend Business Standard",
+            "ediPlace": "Chennai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15986",
+            "name": "Weekend Business Standard",
+            "ediPlace": "Kolkata",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15988",
+            "name": "Weekend Business Standard",
+            "ediPlace": "Bangalore",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "16622",
+            "name": "Weekend Business Standard",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15984",
+            "name": "Weekend Business Standard",
+            "ediPlace": "Delhi",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "15985",
+            "name": "Weekend Business Standard",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "4072",
+            "name": "WHAT CAR?",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5732",
+            "name": "Whats Hi Fi",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "157",
+            "name": "Women's Era",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5883",
+            "name": "Women's Health",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "14795",
+            "name": "World Travel Magazine",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11337",
+            "name": "xBhp",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "8048",
+            "name": "Yashobhoomi",
+            "ediPlace": "Mumbai",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9307",
+            "name": "Yashobhoomi",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "9140",
+            "name": "You & I",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "6328",
+            "name": "Yuva Vedh",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "11127",
+            "name": "Yuvarashtra Darshan",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "3605",
+            "name": "ZIGWHEELS",
+            "ediPlace": "National",
+            "type": "PRINT"
+        },
+        {
+            "pubid": "5944",
+            "name": "Zunzaar Muvala",
+            "ediPlace": "Pune",
+            "type": "PRINT"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+<div class="main-container">
+  <div class="container">
+    <div class="example-container">
+      <h2>To do</h2>
+      <input type="text" placeholder="Search To do" (input)="searchTodoList($event)" />
+      <br />
+      <br />
+      <br />
+      <div
+        cdkDropList
+        #todoList="cdkDropList"
+        [cdkDropListData]="todo"
+        [cdkDropListConnectedTo]="[doneList]"
+        class="example-list"
+        (cdkDropListDropped)="drop($event)">
+        <div
+          class="example-box"
+          *ngFor="let item of filteredTodo; trackBy: trackByFn"
+          cdkDrag
+          [class.selected]="selectedItems.has(item)"
+          [class.dragging]="isDragging && draggedItem === item"
+          (mousedown)="toggleSelection($event, item, todo)"
+          (cdkDragStarted)="onDragStarted(item)"
+          (cdkDragEnded)="onDragEnded(item)"
+          [attr.data-item]="item">
+          {{item}}
+        </div>
+      </div>
+      <div class="list-content">
+        <h3>Items in To do:</h3>
+        <ul>
+          <li *ngFor="let item of filteredTodo">{{item}}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-buttons">
+    <button (click)="shiftItems(todo, done)">→</button>
+    <button (click)="shiftItems(done, todo)">←</button>
+  </div>
+
+  <div class="container">
+    <div class="example-container">
+      <h2>Done</h2>
+      <input type="text" placeholder="Search Done" (input)="searchDoneList($event)" />
+      <br />
+      <br />
+      <br />
+      <div
+        cdkDropList
+        #doneList="cdkDropList"
+        [cdkDropListData]="done"
+        [cdkDropListConnectedTo]="[todoList]"
+        class="example-list"
+        (cdkDropListDropped)="drop($event)">
+        <div
+          class="example-box"
+          *ngFor="let item of filteredDone; trackBy: trackByFn"
+          cdkDrag
+          [class.selected]="selectedItems.has(item)"
+          [class.dragging]="isDragging && draggedItem === item"
+          (mousedown)="toggleSelection($event, item, done)"
+          (cdkDragStarted)="onDragStarted(item)"
+          (cdkDragEnded)="onDragEnded(item)"
+          [attr.data-item]="item">
+          {{item}}
+        </div>
+      </div>
+      <div class="list-content">
+        <h3>Items in Done:</h3>
+        <ul>
+          <li *ngFor="let item of filteredDone">{{item}}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
